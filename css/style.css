@@ -4,9 +4,9 @@
 
 :root {
   --headings-font: "Handlee", cursive;
-  --primary-color: rgb(240, 37, 37);
-  --light-grey-color: rgb(243, 243, 243);
-  --dark-color: rgb(46, 46, 46);
+  --primary-color: rgb(0, 0, 0);
+  --light-grey-color: rgb(35,43,43);
+  --dark-color: rgb(0, 0, 0);
 }
 
 * {
@@ -244,6 +244,7 @@ ARTICLES
   font-size: 1.6rem;
   margin: 1rem 0rem;
   letter-spacing: 1px;
+  color:white;
 }
 
 .articles {
